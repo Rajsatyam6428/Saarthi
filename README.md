@@ -21,8 +21,8 @@ We have included two Android package (APK) files in the `mobile-app/` directory 
 
 | APK File | Description | Path |
 |----------|-------------|------|
-| **Saarthi.apk** | **Core Working Prototype**: The functional base of the application with working backend integration for location tracking and SOS. | [`mobile-app/Saarthi.apk`](./mobile-app/Saarthi.apk) |
-| **app-release.apk** | **Frontend Experience Demo**: A polished UI prototype showcasing the intended design aesthetics and user flow. | [`mobile-app/app-release.apk`](./mobile-app/app-release.apk) |
+| **Saarthi.apk** | **Core Working Prototype**: The functional base of the application with working backend integration for location tracking and SOS. | [`mobile-app/Saarthi.apk`](./Saarthi/mobile-app/Saarthi.apk) |
+| **app-release.apk** | **Frontend Experience Demo**: A polished UI prototype showcasing the intended design aesthetics and user flow. | [`mobile-app/app-release.apk`](./Saarthi/mobile-app/app-release.apk) |
 
 > *Note: These are prototype builds. Ensure you allow installation from unknown sources on your Android device to test them.*
 
