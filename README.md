@@ -96,6 +96,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 ## 📂 Project Structure
 
 ```bash
+├── Saarthi/ 
 ├── app/                  # Next.js App Router pages and API routes
 ├── components/           # Reusable UI components (Shadcn + Custom)
 ├── contexts/             # React Contexts (Auth, etc.)
